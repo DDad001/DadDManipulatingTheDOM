@@ -1,0 +1,22 @@
+.ChangeTxtColor
+{
+ color:white;
+}
+
+.ChangePageColor
+{
+    background-color: darkgreen;
+}
+
+.ImageBtn{
+
+    background-image: url("../images/ScaryImage.jpeg");
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    width: 3000px;
+    height:500px
+}
+
+
+
+
