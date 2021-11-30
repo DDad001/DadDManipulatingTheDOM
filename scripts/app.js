@@ -179,8 +179,7 @@ PlaySound .addEventListener('click',function(e){
     }
     else
     {
-        
-        PlaySound.innerHTML = "<button id = 'PlaySound'type='button' class='btn btn-dark'>Play a Sound Button</button>";
+        PlaySound.innerHTML = "";
     }
     btnClicked = !btnClicked;
 });
